@@ -1,0 +1,186 @@
+/* Navigation bar CSS */
+	
+	a {
+		text-decoration:none;
+	}
+	
+	h1, h2, h3, h4 {
+		
+		font-family:Montserrat,sans-serif;
+		
+	}
+	
+	p {
+		
+		font-family:Roboto Ligth, sans-serif;
+		color: black;
+		
+	}
+	
+	.boldtext {
+		
+		font-weight:bold;
+		
+	}
+	
+	.bigheader {
+		width: 100vw;
+		height: 70px;
+		background-color: black;
+		position: relative;
+		margin:-10px 0px 0px -8px;
+	}
+	
+	.smallheader {
+		width: 50%;
+		height: 50px;
+		position: relative;
+		left: 650px;
+		top: 12px;
+		
+	}
+	
+	.menulist {
+			list-style-type:none;
+			position:relative;
+			top:15px;
+			
+	}
+	
+	.menulistelements {
+		font-family:Montserrat, sans-serif;
+		color:white;
+		display:inline;
+		margin: 25px;
+	
+	}
+	
+	.menulinks:link {
+		color:white;
+	}
+	
+	.menulinks:visited {
+		color:white;
+		
+	}
+	
+	.menulinks:hover {
+		color:#f35c1b;
+	}
+	
+	.subscribebutton {
+		width:130px;
+		height:30px;
+		background-color:transparent;
+		color:white;
+		position:relative;
+		left:635px;
+		bottom:25px;
+		border-style:solid;
+		border-width:2px;
+		border-color:white;
+		border-radius:20px;
+		font-family:Montserrat,sans-serif;
+	}
+	
+	/* FIRST SECTION - HOME */
+	
+	.home {
+		
+		width:100vw;
+		height:650px;
+		background-image: url("abstract1.png");
+		position: relative;
+		margin:0px 0px 0px -8px;
+		
+	}
+	
+	.home:hover {
+		
+		cursor: default;
+		
+	}
+	
+	.hometext {
+	
+		width:50%;
+		height:100%;
+		position: relative;
+		float:left;
+	
+	}
+	
+	.textcontainerhome {
+		
+		width:75%;
+		height:63%;
+		position:absolute;
+		float:right;
+		top:110px;
+		left:110px;
+	}
+	
+	.textcontainerhometext {
+		
+		position:absolute;
+		font-size:55px;
+		color:black;
+		top:-20px;
+		font-family:Montserrat, sans-serif;
+		letter-spacing:-3px;
+		text-transform:uppercase;
+		
+	}
+	
+	.thedevcolor {
+		
+		color:#f35c1b;
+		
+	}
+	
+	.homesmalltext {
+		
+		font-size:20px;
+		line-height:45px;
+		position:absolute;
+		top:85px;
+		left:7px;
+		opacity:0.8;
+	}
+	
+	.subbuttonhome {
+		
+		position:absolute;
+		bottom:5px;
+		width:250px;
+		height:50px;
+		border-style:none;
+		background-color:#f35c1b;
+		color:white;
+		font-size:17px;
+		font-weight:bold;
+		border-radius:25px;
+		
+	}
+	
+	.illustration1div {
+		
+		width:50%;
+		height:100%;
+		position:relative;
+		float:right;
+	}
+	
+	.illustration1 {
+		
+		width:85%;
+		height:85%;
+		position:relative;
+		top:50px;
+		right:50px;
+		
+	}
+
+
+	
+	
