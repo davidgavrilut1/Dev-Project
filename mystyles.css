@@ -113,16 +113,18 @@
 	.textcontainerhome {
 		
 		width:75%;
-		height:63%;
-		position:absolute;
+		height:65%;
+		position:relative;
+		right:90px;
 		float:right;
 		top:110px;
-		left:110px;
+
+
 	}
 	
 	.textcontainerhometext {
 		
-		position:absolute;
+		position:relative;
 		font-size:55px;
 		color:black;
 		top:-20px;
@@ -142,16 +144,16 @@
 		
 		font-size:20px;
 		line-height:45px;
-		position:absolute;
-		top:85px;
+		position:relative;
+		bottom:30px;
 		left:7px;
 		opacity:0.8;
 	}
 	
 	.subbuttonhome {
 		
-		position:absolute;
-		bottom:5px;
+		position:relative;
+		bottom:20px;
 		width:250px;
 		height:50px;
 		border-style:none;
