@@ -57,6 +57,7 @@
 	
 	.menulinks:link {
 		color:white;
+		transition: color 0.2s linear;
 	}
 	
 	.menulinks:visited {
@@ -81,6 +82,7 @@
 		border-color:white;
 		border-radius:20px;
 		font-family:Montserrat,sans-serif;
+		cursor:pointer;
 	}
 	
 	/* FIRST SECTION - HOME */
@@ -118,7 +120,6 @@
 		right:90px;
 		float:right;
 		top:110px;
-
 
 	}
 	
@@ -162,6 +163,7 @@
 		font-size:17px;
 		font-weight:bold;
 		border-radius:25px;
+		cursor:pointer;
 		
 	}
 	
@@ -176,13 +178,11 @@
 	.illustration1 {
 		
 		width:85%;
-		height:85%;
+		height:auto;
 		position:relative;
-		top:50px;
+		top:60px;
 		right:50px;
 		
 	}
-
-
 	
 	
