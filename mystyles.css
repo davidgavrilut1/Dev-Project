@@ -318,7 +318,7 @@
 		position: relative;
 		float:right;
 		bottom:5px;
-		right:15px;
+		right:5px;
 		
 	}
 	
@@ -328,7 +328,6 @@
 		color:white;
 		display:inline;
 		margin:1px;
-		right:30px;
 	
 	}
 		
@@ -352,8 +351,8 @@
 		
 		.illustration1div {
 		
-		width:85%;
-		height:85%;
+		width:100%;
+		height:auto;
 		position:absolute;
 		float:none;
 		top:500px;
