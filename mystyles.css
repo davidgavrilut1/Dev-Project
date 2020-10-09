@@ -245,7 +245,7 @@
 		.home {
 		
 		width:100vw;
-		height:1000px;
+		height:975px;
 		background-image: url("abstract1.png");
 		position: relative;
 		margin:0px 0px 0px -8px;
@@ -275,14 +275,32 @@
 	
 	@media only screen and (max-width: 500px) {
 	
+		.home {
+		
+		width:100vw;
+		height:970px;
+		background-image: url("abstract1.png");
+		position: relative;
+		right:-20px;
+		
+	}
+	
+	.bigheader {
+		width: 100vw;
+		height: 70px;
+		background-color: black;
+		position: relative;
+		right:-20px;
+	}
+		
 		.illustration1div {
 		
-		width:80%;
-		height:80%;
+		width:85%;
+		height:85%;
 		position:absolute;
 		float:none;
-		top:550px;
-		left:100px;
+		top:450px;
+		left:80px;
 		
 	}
 	
@@ -291,6 +309,7 @@
 		width:90%;
 		height:100%;
 		position: relative;
+		top:-50px;
 		float:none;
 		left:50px;
 	
