@@ -227,7 +227,7 @@
 		position: relative;
 		float:right;
 		bottom:5px;
-		right:75px;
+		right:70px;
 		
 	}
 		
@@ -318,7 +318,7 @@
 		position: relative;
 		float:right;
 		bottom:5px;
-		right:5px;
+		right:-3px;
 		
 	}
 	
@@ -327,7 +327,7 @@
 		font-size:12px;
 		color:white;
 		display:inline;
-		margin:1px;
+		margin:3px;
 	
 	}
 		
