@@ -1332,6 +1332,57 @@
 		right:10px;
 		
 	}
+	
+	.textcontainerhometext {
+		
+		position:relative;
+		font-size:55px;
+		color:black;
+		top:-20px;
+		left:15px;
+		font-family:Montserrat, sans-serif;
+		letter-spacing:-3px;
+		text-transform:uppercase;
+		text-align:center;
+	}
+	
+	.homesmalltext {
+		
+		font-size:17px;
+		line-height:45px;
+		position:relative;
+		bottom:30px;
+		left:20px;
+		opacity:0.8;
+		text-align:center;
+	}
+	
+	.subbuttonhome {
+		
+		position:relative;
+		bottom:20px;
+		width:120%;
+		height:50px;
+		border-style:none;
+		background-color:#f35c1b;
+		color:white;
+		font-size:17px;
+		font-weight:bold;
+		border-radius:25px;
+		cursor:pointer;
+		margin:auto;
+		
+	}
+	
+	.illustration1 {
+		
+		width:80%;
+		height:auto;
+		position:relative;
+		top:390px;
+		left:-15px;
+		
+	}
 		
 		.aboutme {
 		
@@ -1342,6 +1393,16 @@
 		cursor:default;
 		top:20px;
 		z-index:9;
+	}
+	
+	.aboutmebuttonsdiv {
+		
+		width:55%;
+		height:200px;
+		position:relative;
+		margin:auto;
+		top:10px;
+
 	}
 	
 	.devprogramleft {
@@ -1359,7 +1420,7 @@
 		width:90%;
 		height:300px;
 		position:relative;
-		top:240px;
+		top:230px;
 		
 	}
 	
@@ -1369,6 +1430,16 @@
 		height:auto;
 		position:relative;
 		opacity:0.8;
+		
+	}
+	
+	.challengeright {
+		
+		width:60%;
+		height:100%;
+		position:absolute;
+		bottom:70px;
+		left:1%;
 		
 	}
 		
